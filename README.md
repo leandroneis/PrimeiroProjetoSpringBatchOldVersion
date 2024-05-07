@@ -10,4 +10,3 @@ O projeto está utilizando as seguintes versões:
 * Java 11.
 
 Durante o curso será incluso as versões do banco de dados utilizado e outros frameworks.
-
